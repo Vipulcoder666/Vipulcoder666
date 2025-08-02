@@ -1,14 +1,14 @@
 <!-- Profile Header -->
 <h2 align="center">Hi 👋, I'm Vipul Shrivastav</h2>
-<h4 align="center">MERN Stack Developer | DSA Enthusiast | Lifelong Learner</h4>
+<h4 align="center">MERN Stack Developer | Problem Solver  | Tech Enthusiast </h4>
 
 <br/>
 
 <!-- About -->
-### 🚀 About Me
+### .. About Me
 - 👨‍💻 Final Year BTech Student, passionate about **Web Development & Problem Solving**
 - 🌱 Currently learning **Advanced React, MongoDB & System Design**
-- 💡 Solved 300+ DSA problems across various platforms
+- 💡 Solved 200+ DSA problems across various platforms
 - 🎯 Goal: To build scalable and impactful web applications
 - 🧠 I believe in **"Code. Learn. Repeat."**
 
@@ -42,7 +42,7 @@
 <!-- Certifications -->
 ### 📜 Certifications
 - ✅ IBM: **Data Science 101** – CognitiveClass.ai  
-- ✅ HackerRank: **3 Stars in SQL**  
+- ✅ HackerRank: **5 Stars in SQL**  
 - ✅ Optifyx Technology: **Frontend Developer Internship Offer**
 
 <br/>
@@ -66,5 +66,5 @@
 
 <br/><br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+" alt="Typing SVG" />
 </p>
