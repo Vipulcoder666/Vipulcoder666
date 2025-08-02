@@ -1,81 +1,70 @@
-<h1 align="center">Hi 👋, I'm Vipul Shrivastav</h1>
-<h3 align="center">A passionate MERN stack developer & programmer from India</h3>
+<!-- Profile Header -->
+<h2 align="center">Hi 👋, I'm Vipul Shrivastav</h2>
+<h4 align="center">MERN Stack Developer | DSA Enthusiast | Lifelong Learner</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue"/>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61dafb"/>
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=green"/>
-  <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=darkgreen"/>
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=gray"/>
+<br/>
+
+<!-- About -->
+### 🚀 About Me
+- 👨‍💻 Final Year BTech Student, passionate about **Web Development & Problem Solving**
+- 🌱 Currently learning **Advanced React, MongoDB & System Design**
+- 💡 Solved 300+ DSA problems across various platforms
+- 🎯 Goal: To build scalable and impactful web applications
+- 🧠 I believe in **"Code. Learn. Repeat."**
+
+<br/>
+
+<!-- Tech Stack -->
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-🌐 Portfolio & Links
-🔗 Portfolio Website
+<br/>
 
-💼 LinkedIn
+<!-- Projects -->
+### 💼 Projects
+- 🌐 **Online Donation Website** – Built with React, Tailwind CSS, integrated payment gateway
+- ✈️ **Travel Agency Website** – HTML, CSS, JavaScript-based responsive site
+- 📚 **Online Learning Platform** *(ongoing)* – MERN stack full-featured project
 
-📧 Email: shrivastav.vipul252@gmail.com
+<br/>
 
-📍 Location: Varanasi, Uttar Pradesh, India
+<!-- Certifications -->
+### 📜 Certifications
+- ✅ IBM: **Data Science 101** – CognitiveClass.ai  
+- ✅ HackerRank: **3 Stars in SQL**  
+- ✅ Optifyx Technology: **Frontend Developer Internship Offer**
 
-🛠️ Skills
-css
-Copy
-Edit
-/* Frontend */
-.react {
-  framework: "React.js";
-  tools: ["Vite", "HTML5", "CSS3", "TailwindCSS"];
-}
+<br/>
 
-/* Backend */
-.nodejs {
-  runtime: "Node.js";
-  framework: "Express.js";
-}
+<!-- Coding Profiles -->
+### 🧑‍💻 Coding Profiles
+- 🟢 [HackerRank](https://www.hackerrank.com/profile/shrivastav_vipu1)  
+- 🟡 [LeetCode](https://leetcode.com/u/vipul_666/)  
 
-/* Database */
-.database {
-  relational: "MySQL";
-  nonRelational: "MongoDB";
-}
+<br/>
 
-/* Languages */
-.languages {
-  primary: ["JavaScript", "Python", "C"];
-}
-📂 Projects
-🔸 Online Donation and Resource Management (In Progress)
-MERN Stack
-Developed a web app for streamlining online donations and resource distribution. Built with React & Vite, includes landing page, payment gateway, and backend integration in progress.
+<!-- Connect -->
+### 🤝 Let’s Connect
+<a href="https://www.linkedin.com/in/vipul-shrivastav-7506a5258" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+&nbsp;
+<a href="mailto:shrivastav.vipu1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-🔸 Travel Agency Website
-React.js
-An interactive website for exploring and booking Indian destinations. Features dynamic React components and responsive layouts.
-
-🔸 Personal Portfolio
-React.js
-A clean and modern personal portfolio to showcase your skills and projects. Live at portfolio link.
-
-📜 Certifications
-🧑‍💻 Software Engineering Intern – HackerRank
-
-🧩 Problem Solving – HackerRank
-
-🧠 Data Science 101 – IBM
-
-📊 Data Analytics & Visualization – Accenture Forage
-
-📘 Core Subjects
-📌 DBMS – SQL, normalization, transaction management
-
-📌 OOPS – Encapsulation, Inheritance, Polymorphism
-
-📌 Data Structures – Arrays, Linked Lists, Trees, Graphs
-
-📌 Computer Networks – OSI & TCP/IP models, Routing, IP addressing
-
-💡 Coding Profiles
-🟠 LeetCode – 200+ problems solved
-
-🟢 HackerRank – 200+ problems solved
+<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" alt="Typing SVG" />
+</p>
