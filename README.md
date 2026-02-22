@@ -8,7 +8,7 @@
 ### .. About Me
 - 👨‍💻 Final Year BTech Student, passionate about **Web Development & Problem Solving**
 - 🌱 Currently learning **Advanced React, MongoDB & System Design**
-- 💡 Solved 200+ DSA problems across various platforms
+- 💡 Solved 500+ DSA problems across various platforms
 - 🎯 Goal: To build scalable and impactful web applications
 - 🧠 I believe in **"Code. Learn. Repeat."**
 
