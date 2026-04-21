@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h2 align="center">Hi, I'm Vipul Shrivastav</h2>
+<h2 align="center">Hi 👋, I'm Vipul Shrivastav</h2>
 <h4 align="center">Software Engineering Enthusiast | Backend and AI Developer | MERN |  Python | Problem Solver</h4>
 
 <br/>
