@@ -1,17 +1,18 @@
 <!-- Profile Header -->
 <h2 align="center">Hi 👋, I'm Vipul Shrivastav</h2>
-<h4 align="center">Software Engineering Enthusiast | Backend and AI Developer | MERN |  Python | Problem Solver</h4>
+<h4 align="center">Software Engineering | Backend and AI Developer | Python | Computer Vision | MERN | Problem Solver</h4>
 
 <br/>
 
 <!-- About -->
 ### About Me
-- Final year BTech Computer Science student with strong interest in software engineering and system development  
-- Experienced in building web applications and real-time systems using backend technologies and machine learning  
-- Worked on projects involving computer vision, full stack development, and data-driven applications  
-- Solved 500+ DSA problems, focusing on improving problem solving and logical thinking  
-- Currently working and improving MERN, backend architecture, and scalable application development  
-- Interested in building impactful and real world solutions using technology  
+- Software Engineer passionate about building scalable applications and solving real-world problems through technology  
+- Currently working on Python, OpenCV, Computer Vision, and automation-based software solutions 
+- Experienced in Full Stack Development using React.js, Node.js, Express.js, MongoDB, and MySQL 
+- Worked on projects involving computer vision, web development, machine learning, and data-driven applications 
+- Solved 500+ DSA problems, strengthening problem-solving and algorithmic thinking skills
+- Continuously learning backend architecture, cloud technologies, system design, and scalable software development
+- Enthusiastic about creating impactful products that combine software engineering and AI
 
 <br/>
 
