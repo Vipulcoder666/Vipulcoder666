@@ -88,7 +88,7 @@ Stack: Python, OpenCV, MOG2, Raspberry Pi
 ---
 
 ### [MERN Stack Project Name] - Full Stack Backend Project
-(In progress - replace this with a short description once built. Suggest picking something that shows off REST API design and SQL/MongoDB together, such as an inventory or automation-monitoring dashboard that logs data from your CV projects above - it ties your backend and CV work into one system.)
+(In progress)
 
 Stack: React, Node.js, Express.js, MongoDB
 
