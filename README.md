@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Vipul Shrivastav 👋</h1>
-<h3 align="center">Software Development Engineer @ SmarDen Automation | Computer Vision · MERN · Machine Learning</h3>
+<h1 align="center">Hi, I'm Vipul Shrivastav</h1>
+<h3 align="center">Software Development Engineer @ SmarDen Automation | Backend Development (MERN, SQL) | Computer Vision & ML for Automation</h3>
 
 <p align="center">
   <a href="https://client-two-xi-81.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-2ea44f?style=for-the-badge" /></a>
@@ -10,21 +10,30 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
-I'm a Software Development Engineer at **SmarDen Automation** (Bahadurgarh, Haryana), where I build production computer vision systems for industrial automation — from camera-side detection models to the backend services that turn them into usable data.
+I'm a Software Development Engineer at SmarDen Automation (Bahadurgarh, Haryana), working across two areas: building backend systems and REST APIs, and building computer vision models used in automation.
 
-- 🏭 Currently building CV-driven automation pipelines (detection, counting, tracking) deployed on edge devices like Raspberry Pi
-- 🧠 Comfortable across the full stack: model training (YOLO/PyTorch) → OpenCV pipelines → MERN backend/API → real-time dashboards
-- 🧩 Solved 500+ DSA problems — solid grounding in algorithms and problem-solving
-- 🌱 Currently deepening my backend skills with Django, and exploring cloud deployment & CI/CD
-- 🎯 Looking to grow into roles that combine backend engineering with applied computer vision / ML
+On the backend side, I design and build REST APIs and full stack applications using the MERN stack and SQL, covering everything from schema design and authentication to API architecture. On the computer vision side, I train and deploy detection models (YOLO, PyTorch) and build OpenCV-based pipelines that run on real production hardware, including edge devices like Raspberry Pi, as part of industrial automation systems.
+
+I have solved 500+ DSA problems, which keeps my algorithmic fundamentals solid, and I'm currently extending my backend skills further with Django. I'm looking to grow in roles where backend engineering and applied computer vision work together, which is largely what I already do day to day.
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Computer Vision / ML**
+**Backend & Full Stack Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge"/>
+</p>
+
+**Computer Vision & Machine Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -33,16 +42,6 @@ I'm a Software Development Engineer at **SmarDen Automation** (Bahadurgarh, Hary
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-**Backend / Full Stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 **Tools & Platforms**
@@ -57,43 +56,43 @@ I'm a Software Development Engineer at **SmarDen Automation** (Bahadurgarh, Hary
 
 <br/>
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 📦 Carton Box Detection — Computer Vision
-Real-time carton/box detection system built for an industrial automation line.
-- Trained and fine-tuned a **YOLO** object detection model, with datasets prepared and versioned in **Roboflow**
-- Built the inference pipeline in **PyTorch + OpenCV** for real-time detection on live camera feed
-- Focus: robust detection under varying lighting/box orientation on a factory line
+### Carton Box Detection - Computer Vision for Automation
+Real-time carton and box detection system built for an industrial automation line.
+- Trained and fine-tuned a YOLO object detection model, with datasets prepared and versioned in Roboflow
+- Built the inference pipeline in PyTorch and OpenCV for real-time detection on live camera feed
+- Focused on robust detection under varying lighting and box orientation on a factory line
 
-`Python` `YOLO` `PyTorch` `OpenCV` `Roboflow`
-
----
-
-### 🔢 Product Counting on Conveyor Belt — Edge Vision System
-A real-time product counting system deployed directly on a **Raspberry Pi** for conveyor-line automation.
-- Used **OpenCV + MOG2 background subtraction** to detect and count moving products without a trained model
-- Optimized the pipeline to run efficiently on limited edge hardware (Raspberry Pi)
-- Deployed and tested directly on-site, working with real conveyor hardware constraints
-
-`Python` `OpenCV` `MOG2` `Raspberry Pi` `Edge Deployment`
+Stack: Python, YOLO, PyTorch, OpenCV, Roboflow
 
 ---
 
-### 🌐 [MERN Stack Project Name] — Full Stack Web App
-*(In progress — add a short one-line description here once built, e.g. an inventory/dashboard app that complements the CV projects above.)*
+### Product Counting on Conveyor Belt - Edge Vision System
+Real-time product counting system deployed directly on a Raspberry Pi for conveyor-line automation.
+- Used OpenCV with MOG2 background subtraction to detect and count moving products without a trained model
+- Optimized the pipeline to run efficiently on limited edge hardware
+- Deployed and tested on-site, working with real conveyor hardware constraints
 
-`React` `Node.js` `Express.js` `MongoDB`
+Stack: Python, OpenCV, MOG2, Raspberry Pi
+
+---
+
+### [MERN Stack Project Name] - Full Stack Backend Project
+(In progress - replace this with a short description once built. Suggest picking something that shows off REST API design and SQL/MongoDB together, such as an inventory or automation-monitoring dashboard that logs data from your CV projects above - it ties your backend and CV work into one system.)
+
+Stack: React, Node.js, Express.js, MongoDB
 
 <br/>
 
-## 📜 Certifications
-- IBM Data Science 101 – CognitiveClass
+## Certifications
+- IBM Data Science 101 - CognitiveClass
 - HackerRank SQL Certification
-- Frontend Developer Internship – Optifyx Technology
+- Frontend Developer Internship - Optifyx Technology
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vipulcoder666&show_icons=true&theme=default&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipulcoder666" height="165"/>
@@ -101,7 +100,7 @@ A real-time product counting system deployed directly on a **Raspberry Pi** for 
 
 <br/>
 
-## 🔗 Connect With Me
+## Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/vipul-shrivastav-7506a5258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shrivastav.vipu1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
