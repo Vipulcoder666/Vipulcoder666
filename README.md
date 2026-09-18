@@ -10,6 +10,15 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://client-two-xi-81.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-client--two--xi--81.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+<p align="center"><sub>Live projects, case studies, and detailed write-ups on my computer vision and backend work</sub></p>
+
+<br/>
+
 ## About Me
 
 I'm a Software Development Engineer at SmarDen Automation (Bahadurgarh, Haryana), working across two areas: building backend systems and REST APIs, and building computer vision models used in automation.
@@ -79,6 +88,7 @@ Stack: Python, OpenCV, MOG2, Raspberry Pi
 ---
 
 ### [MERN Stack Project Name] - Full Stack Backend Project
+(In progress - replace this with a short description once built. Suggest picking something that shows off REST API design and SQL/MongoDB together, such as an inventory or automation-monitoring dashboard that logs data from your CV projects above - it ties your backend and CV work into one system.)
 
 Stack: React, Node.js, Express.js, MongoDB
 
